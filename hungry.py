@@ -5,5 +5,9 @@ if hungry == "yes":
     print("ear burger")
     print("donteat")
     print("dracula")
+    print("last")
 else:
     print("please do homework")
+
+#create a variable
+
